@@ -1,0 +1,5 @@
+opencv-python
+streamlit
+mediapipe
+scipy
+playsound==1.2.2
